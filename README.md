@@ -13,4 +13,4 @@ TinDog is a mock website designed to help you meet new and interesting dogs near
 
 ## Demo
 
-You can see a live demo of the TinDog website [here](https://example.com).
+You can see a live demo of the TinDog website [here](https://abedalmajed.github.io/Tindog-Project/).
